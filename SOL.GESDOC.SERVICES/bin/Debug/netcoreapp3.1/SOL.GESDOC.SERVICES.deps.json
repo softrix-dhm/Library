@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SOL.GESDOC.SERVICES/1.0.0": {
+        "dependencies": {
+          "SOL.GESDOC.DTO": "1.0.0"
+        },
+        "runtime": {
+          "SOL.GESDOC.SERVICES.dll": {}
+        }
+      },
+      "SOL.GESDOC.DTO/1.0.0": {
+        "runtime": {
+          "SOL.GESDOC.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SOL.GESDOC.SERVICES/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SOL.GESDOC.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

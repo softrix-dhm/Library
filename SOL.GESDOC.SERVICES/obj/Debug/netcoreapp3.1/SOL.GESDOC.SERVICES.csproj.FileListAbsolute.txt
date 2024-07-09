@@ -1,0 +1,13 @@
+C:\Users\desatic.04\Desktop\Metrica\GesDoc\SOL.GESDOC.SERVICES\bin\Debug\netcoreapp3.1\SOL.GESDOC.SERVICES.deps.json
+C:\Users\desatic.04\Desktop\Metrica\GesDoc\SOL.GESDOC.SERVICES\bin\Debug\netcoreapp3.1\SOL.GESDOC.SERVICES.dll
+C:\Users\desatic.04\Desktop\Metrica\GesDoc\SOL.GESDOC.SERVICES\bin\Debug\netcoreapp3.1\SOL.GESDOC.SERVICES.pdb
+C:\Users\desatic.04\Desktop\Metrica\GesDoc\SOL.GESDOC.SERVICES\bin\Debug\netcoreapp3.1\SOL.GESDOC.DTO.dll
+C:\Users\desatic.04\Desktop\Metrica\GesDoc\SOL.GESDOC.SERVICES\bin\Debug\netcoreapp3.1\SOL.GESDOC.DTO.pdb
+C:\Users\desatic.04\Desktop\Metrica\GesDoc\SOL.GESDOC.SERVICES\obj\Debug\netcoreapp3.1\SOL.GESDOC.SERVICES.csproj.AssemblyReference.cache
+C:\Users\desatic.04\Desktop\Metrica\GesDoc\SOL.GESDOC.SERVICES\obj\Debug\netcoreapp3.1\SOL.GESDOC.SERVICES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desatic.04\Desktop\Metrica\GesDoc\SOL.GESDOC.SERVICES\obj\Debug\netcoreapp3.1\SOL.GESDOC.SERVICES.AssemblyInfoInputs.cache
+C:\Users\desatic.04\Desktop\Metrica\GesDoc\SOL.GESDOC.SERVICES\obj\Debug\netcoreapp3.1\SOL.GESDOC.SERVICES.AssemblyInfo.cs
+C:\Users\desatic.04\Desktop\Metrica\GesDoc\SOL.GESDOC.SERVICES\obj\Debug\netcoreapp3.1\SOL.GESDOC.SERVICES.csproj.CoreCompileInputs.cache
+C:\Users\desatic.04\Desktop\Metrica\GesDoc\SOL.GESDOC.SERVICES\obj\Debug\netcoreapp3.1\SOL.GESD.C2232EA9.Up2Date
+C:\Users\desatic.04\Desktop\Metrica\GesDoc\SOL.GESDOC.SERVICES\obj\Debug\netcoreapp3.1\SOL.GESDOC.SERVICES.dll
+C:\Users\desatic.04\Desktop\Metrica\GesDoc\SOL.GESDOC.SERVICES\obj\Debug\netcoreapp3.1\SOL.GESDOC.SERVICES.pdb

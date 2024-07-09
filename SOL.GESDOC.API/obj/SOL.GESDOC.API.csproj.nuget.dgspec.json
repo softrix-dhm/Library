@@ -1,0 +1,285 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.API\\SOL.GESDOC.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.API\\SOL.GESDOC.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.API\\SOL.GESDOC.API.csproj",
+        "projectName": "SOL.GESDOC.API",
+        "projectPath": "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.API\\SOL.GESDOC.API.csproj",
+        "packagesPath": "C:\\Users\\desatic.04\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\desatic.04\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.DTO\\SOL.GESDOC.DTO.csproj": {
+                "projectPath": "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.DTO\\SOL.GESDOC.DTO.csproj"
+              },
+              "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.REPOSITORY\\SOL.GESDOC.REPOSITORY.csproj": {
+                "projectPath": "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.REPOSITORY\\SOL.GESDOC.REPOSITORY.csproj"
+              },
+              "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.SERVICES\\SOL.GESDOC.SERVICES.csproj": {
+                "projectPath": "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.SERVICES\\SOL.GESDOC.SERVICES.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.DTO\\SOL.GESDOC.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.DTO\\SOL.GESDOC.DTO.csproj",
+        "projectName": "SOL.GESDOC.DTO",
+        "projectPath": "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.DTO\\SOL.GESDOC.DTO.csproj",
+        "packagesPath": "C:\\Users\\desatic.04\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\desatic.04\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.REPOSITORY\\SOL.GESDOC.REPOSITORY.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.REPOSITORY\\SOL.GESDOC.REPOSITORY.csproj",
+        "projectName": "SOL.GESDOC.REPOSITORY",
+        "projectPath": "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.REPOSITORY\\SOL.GESDOC.REPOSITORY.csproj",
+        "packagesPath": "C:\\Users\\desatic.04\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.REPOSITORY\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\desatic.04\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.SERVICES\\SOL.GESDOC.SERVICES.csproj": {
+                "projectPath": "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.SERVICES\\SOL.GESDOC.SERVICES.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.SERVICES\\SOL.GESDOC.SERVICES.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.SERVICES\\SOL.GESDOC.SERVICES.csproj",
+        "projectName": "SOL.GESDOC.SERVICES",
+        "projectPath": "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.SERVICES\\SOL.GESDOC.SERVICES.csproj",
+        "packagesPath": "C:\\Users\\desatic.04\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.SERVICES\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\desatic.04\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.DTO\\SOL.GESDOC.DTO.csproj": {
+                "projectPath": "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.DTO\\SOL.GESDOC.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

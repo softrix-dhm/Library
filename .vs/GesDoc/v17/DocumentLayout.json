@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DECC23A-DE2C-432C-B8EA-48E4C3AB3BC8}|SOL.GESDOC.API\\SOL.GESDOC.API.csproj|c:\\users\\desatic.04\\desktop\\metrica\\gesdoc\\sol.gesdoc.api\\controllers\\prestamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DECC23A-DE2C-432C-B8EA-48E4C3AB3BC8}|SOL.GESDOC.API\\SOL.GESDOC.API.csproj|solutionrelative:sol.gesdoc.api\\controllers\\prestamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD941619-255E-4B01-A833-6328237A495A}|SOL.GESDOC.DTO\\SOL.GESDOC.DTO.csproj|c:\\users\\desatic.04\\desktop\\metrica\\gesdoc\\sol.gesdoc.dto\\t_transolicabdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD941619-255E-4B01-A833-6328237A495A}|SOL.GESDOC.DTO\\SOL.GESDOC.DTO.csproj|solutionrelative:sol.gesdoc.dto\\t_transolicabdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9291D2A2-F198-4CAA-9FB8-456379175268}|SOL.GESDOC.REPOSITORY\\SOL.GESDOC.REPOSITORY.csproj|c:\\users\\desatic.04\\desktop\\metrica\\gesdoc\\sol.gesdoc.repository\\tranpresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9291D2A2-F198-4CAA-9FB8-456379175268}|SOL.GESDOC.REPOSITORY\\SOL.GESDOC.REPOSITORY.csproj|solutionrelative:sol.gesdoc.repository\\tranpresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D1C79D-7564-4650-AE82-AE1390C6756D}|SOL.GESDOC.SERVICES\\SOL.GESDOC.SERVICES.csproj|c:\\users\\desatic.04\\desktop\\metrica\\gesdoc\\sol.gesdoc.services\\itranpresservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D1C79D-7564-4650-AE82-AE1390C6756D}|SOL.GESDOC.SERVICES\\SOL.GESDOC.SERVICES.csproj|solutionrelative:sol.gesdoc.services\\itranpresservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 221,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITranPresServices.cs",
+              "DocumentMoniker": "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.SERVICES\\ITranPresServices.cs",
+              "RelativeDocumentMoniker": "SOL.GESDOC.SERVICES\\ITranPresServices.cs",
+              "ToolTip": "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.SERVICES\\ITranPresServices.cs",
+              "RelativeToolTip": "SOL.GESDOC.SERVICES\\ITranPresServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T02:09:24.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TranPresRepository.cs",
+              "DocumentMoniker": "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.REPOSITORY\\TranPresRepository.cs",
+              "RelativeDocumentMoniker": "SOL.GESDOC.REPOSITORY\\TranPresRepository.cs",
+              "ToolTip": "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.REPOSITORY\\TranPresRepository.cs",
+              "RelativeToolTip": "SOL.GESDOC.REPOSITORY\\TranPresRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCIAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T02:09:35.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "T_TranSoliCabDto.cs",
+              "DocumentMoniker": "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.DTO\\T_TranSoliCabDto.cs",
+              "RelativeDocumentMoniker": "SOL.GESDOC.DTO\\T_TranSoliCabDto.cs",
+              "ToolTip": "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.DTO\\T_TranSoliCabDto.cs",
+              "RelativeToolTip": "SOL.GESDOC.DTO\\T_TranSoliCabDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T02:02:48.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 179,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrestamoController.cs",
+              "DocumentMoniker": "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.API\\Controllers\\PrestamoController.cs",
+              "RelativeDocumentMoniker": "SOL.GESDOC.API\\Controllers\\PrestamoController.cs",
+              "ToolTip": "C:\\Users\\desatic.04\\Desktop\\Metrica\\GesDoc\\SOL.GESDOC.API\\Controllers\\PrestamoController.cs",
+              "RelativeToolTip": "SOL.GESDOC.API\\Controllers\\PrestamoController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwCUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T02:01:59.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\desatic.04\Desktop\Metrica\GesDoc\SOL.GESDOC.REPOSITORY\bin\Debug\netcoreapp3.1\SOL.GESDOC.REPOSITORY.deps.json
+C:\Users\desatic.04\Desktop\Metrica\GesDoc\SOL.GESDOC.REPOSITORY\bin\Debug\netcoreapp3.1\SOL.GESDOC.REPOSITORY.dll
+C:\Users\desatic.04\Desktop\Metrica\GesDoc\SOL.GESDOC.REPOSITORY\bin\Debug\netcoreapp3.1\SOL.GESDOC.REPOSITORY.pdb
+C:\Users\desatic.04\Desktop\Metrica\GesDoc\SOL.GESDOC.REPOSITORY\bin\Debug\netcoreapp3.1\SOL.GESDOC.DTO.dll
+C:\Users\desatic.04\Desktop\Metrica\GesDoc\SOL.GESDOC.REPOSITORY\bin\Debug\netcoreapp3.1\SOL.GESDOC.SERVICES.dll
+C:\Users\desatic.04\Desktop\Metrica\GesDoc\SOL.GESDOC.REPOSITORY\bin\Debug\netcoreapp3.1\SOL.GESDOC.SERVICES.pdb
+C:\Users\desatic.04\Desktop\Metrica\GesDoc\SOL.GESDOC.REPOSITORY\bin\Debug\netcoreapp3.1\SOL.GESDOC.DTO.pdb
+C:\Users\desatic.04\Desktop\Metrica\GesDoc\SOL.GESDOC.REPOSITORY\obj\Debug\netcoreapp3.1\SOL.GESDOC.REPOSITORY.csproj.AssemblyReference.cache
+C:\Users\desatic.04\Desktop\Metrica\GesDoc\SOL.GESDOC.REPOSITORY\obj\Debug\netcoreapp3.1\SOL.GESDOC.REPOSITORY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desatic.04\Desktop\Metrica\GesDoc\SOL.GESDOC.REPOSITORY\obj\Debug\netcoreapp3.1\SOL.GESDOC.REPOSITORY.AssemblyInfoInputs.cache
+C:\Users\desatic.04\Desktop\Metrica\GesDoc\SOL.GESDOC.REPOSITORY\obj\Debug\netcoreapp3.1\SOL.GESDOC.REPOSITORY.AssemblyInfo.cs
+C:\Users\desatic.04\Desktop\Metrica\GesDoc\SOL.GESDOC.REPOSITORY\obj\Debug\netcoreapp3.1\SOL.GESDOC.REPOSITORY.csproj.CoreCompileInputs.cache
+C:\Users\desatic.04\Desktop\Metrica\GesDoc\SOL.GESDOC.REPOSITORY\obj\Debug\netcoreapp3.1\SOL.GESD.E20337DE.Up2Date
+C:\Users\desatic.04\Desktop\Metrica\GesDoc\SOL.GESDOC.REPOSITORY\obj\Debug\netcoreapp3.1\SOL.GESDOC.REPOSITORY.dll
+C:\Users\desatic.04\Desktop\Metrica\GesDoc\SOL.GESDOC.REPOSITORY\obj\Debug\netcoreapp3.1\SOL.GESDOC.REPOSITORY.pdb
